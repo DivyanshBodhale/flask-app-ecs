@@ -1,6 +1,6 @@
 # get the base-image 
 
-FROM Python:3.14
+FROM python:3.14
  
 # Create Working DIrectory 
 
